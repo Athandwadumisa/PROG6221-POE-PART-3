@@ -159,7 +159,7 @@ namespace CybersecurityChatbot
                 return finalResponse;
             }
 
-            // Social Media
+            // Social Media 
             if (cleanInput.Contains("facebook") || cleanInput.Contains("instagram") || cleanInput.Contains("social media"))
             {
                 LastDiscussedTopic = "social media";
