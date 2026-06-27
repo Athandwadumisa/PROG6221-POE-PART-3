@@ -6,7 +6,7 @@ using Microsoft.Data.SqlClient;
 
 namespace CybersecurityChatbot
 {
-
+    
     // Delegate to dynamically handle structured conversation responses
     public delegate string BotResponseDelegate(string userInput);
 
